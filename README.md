@@ -1,7 +1,7 @@
-car_valuation
+Image Classification Web App
 ==============================
 
-An end-to-end machine learning project. To predict car prices given certain characteristics of the cars
+A web application to for the classification of images
 
 Project Organization
 ------------
